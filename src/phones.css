@@ -1,0 +1,10 @@
+.phone-grid{
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    font-size: 10px;
+   
+    
+}
